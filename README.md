@@ -8,14 +8,52 @@ Use Postman to find each of the following HTTP codes:
 
 
 1. 200
+
+Website: 
+Description: When this happens, it shows that the website is fully functional and the user can browse through it. 
+Resolved Issues: There are no issues with this one since it is fully functional. 
+
 1. 301
+
+Website: 
+Description: The page was moved permantely and there is no way of getting access to the old page. 
+Resolved Issues: You will have to direct the path now to the moved link to be able to use it once again. I do not believe there is a way to move it back to the original state. 
+
 1. 400
+
+Website:
+Description: 
+Resolved Issues:
+
 1. 401
+
+Website: 
+Description:
+Resolved Issues:
+
 1. 403
+
+Website:
+Description:
+Resolved Issues:
+
 1. 404
+
+Website: 
+Description: The website or page is unaccessible and cannot be viewed upon. 
+Resolved Issues: In order for this to work, you will need to make sure that the pathway that is being called upon is that of the right one. The reason that it is forbidden is because there is no way to access it so it makes it unusable for the user to get to where they are trying to go. 
+
 1. 418
+
+Website:
+Description:
+Resolved Issues:
+
 1. 500
 
+Website:
+Description:
+Resolved Issues:
 
 For each of the questions below, write:
 
